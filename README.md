@@ -47,7 +47,7 @@ I'm interested in technology, especially programming and software development.
 ### 📊 Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-ulgen&layout=compact&theme=dracula" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yusuf-ulgen&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yusuf-ulgen&show_icons=true&theme=dracula&commits_year=2026" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-ulgen&theme=dracula" alt="GitHub Streak" />
