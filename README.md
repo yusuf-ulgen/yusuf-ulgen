@@ -12,55 +12,49 @@
 
 ---
 
-<h3><code>yusuf.exe</code></h3>
-
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <pre>C:\Users\yusuf&gt; whoami
+<tr>
 
-Yusuf Ulgen
-Web &amp; Mobile Developer
-Computer Engineering Student @ Inonu University</pre>
-    </td>
-    <td width="50%" valign="top">
-      <pre>C:\Users\yusuf&gt; dir /b focus
+<td width="25%" valign="top">
+<h3><code>whoami.exe</code></h3>
+C:\Users\yusuf> whoami<br><br>
+Yusuf Ulgen<br>
+Web & Mobile Developer<br>
+Computer Engineering Student<br>
+@ Inonu University
+</td>
 
-java_spring_boot_backends
-fullstack_web_development
-react_native_mobile_apps
-kotlin_mobile_apps
-quantum_computing
+<td width="25%" valign="top">
+<h3><code>dir focus</code></h3>
+C:\Users\yusuf> dir /b focus<br><br>
+java_spring_boot_backends<br>
+fullstack_web_development<br>
+react_native_mobile_apps<br>
+kotlin_mobile_apps<br>
+quantum_computing<br><br>
+C:\Users\yusuf> _
+</td>
 
-C:\Users\yusuf&gt; _</pre>
-    </td>
-  </tr>
-</table>
+<td width="25%" valign="top">
+<h3><code>system_info.txt</code></h3>
+Status : Online<br>
+Mode &nbsp; : Building<br>
+OS &nbsp; &nbsp; : Windows<br>
+Focus &nbsp;: Software Development<br>
+Role &nbsp; : Research + Engineering
+</td>
 
----
+<td width="25%" valign="top">
+<h3><code>focus.txt</code></h3>
+C:\Users\yusuf> type focus.txt<br><br>
+- Mobile app development<br>
+- Backend development<br>
+- Full-stack web projects<br>
+- Quantum computing research<br><br>
+C:\Users\yusuf> _
+</td>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><code>system_info.txt</code></h3>
-      <pre>Status : Online
-Mode   : Building
-OS     : Windows
-Focus  : Software Development
-Role   : Research + Engineering</pre>
-    </td>
-    <td width="50%" valign="top">
-      <h3><code>focus.txt</code></h3>
-      <pre>C:\Users\yusuf&gt; type focus.txt
-
-- Mobile app development
-- Backend development
-- Full-stack web projects
-- Quantum computing research
-
-C:\Users\yusuf&gt; _</pre>
-    </td>
-  </tr>
+</tr>
 </table>
 
 ---
@@ -92,16 +86,16 @@ C:\Users\yusuf&gt; _</pre>
 ## Connect with Me
 
 <p align="left">
-  <a href="https://yusufulgen.com" target="_blank">
+  <a href="https://yusufulgen.com">
     <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <a href="mailto:ysfulgen142@gmail.com" target="_blank">
+  <a href="mailto:ysfulgen142@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/yusuf-ulgen" target="_blank">
+  <a href="https://github.com/yusuf-ulgen">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yusuf-ulgen" target="_blank">
+  <a href="https://linkedin.com/in/yusuf-ulgen">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
