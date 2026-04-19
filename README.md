@@ -18,7 +18,6 @@
 
 ### `yusuf.exe`
 
-cmd
 C:\Users\yusuf> whoami
 
 Yusuf Ulgen
@@ -27,9 +26,10 @@ Education: Computer Engineering Student @ Inonu University
 
 C:\Users\yusuf> dir /b focus
 
-react_native_mobile_apps
 java_spring_boot_backends
 fullstack_web_development
+react_native_mobile_apps
+kotlin_mobile_apps
 quantum_computing
 
 C:\Users\yusuf> _ 
@@ -41,7 +41,6 @@ C:\Users\yusuf> _
 
 Status : Online
 Mode   : Building
-OS     : Windows
 Focus  : Software Development
 Role   : Research + Engineering
 
