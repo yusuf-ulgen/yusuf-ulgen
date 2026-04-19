@@ -21,8 +21,8 @@
 C:\Users\yusuf> whoami
 
 Yusuf Ulgen
-Role: Web & Mobile Developer
-Education: Computer Engineering Student @ Inonu University
+Web & Mobile Developer
+Computer Engineering Student @ Inonu University
 
 C:\Users\yusuf> dir /b focus
 
