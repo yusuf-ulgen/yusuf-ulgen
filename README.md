@@ -21,7 +21,7 @@ C:\Users\yusuf> whoami<br><br>
 Yusuf Ulgen<br>
 Web & Mobile Developer<br>
 Computer Engineering Student<br>
-@ Inonu University
+@ Inonu University<br>
 </td>
 
 <td width="25%" valign="top">
@@ -31,29 +31,35 @@ java_spring_boot_backends<br>
 fullstack_web_development<br>
 react_native_mobile_apps<br>
 kotlin_mobile_apps<br>
-quantum_computing<br><br>
-C:\Users\yusuf> _
+quantum_computing<br>
 </td>
 
 <td width="25%" valign="top">
 <h3><code>system_info.txt</code></h3>
+C:\Users\yusuf>&nbsp;type&nbsp;system_info.txt<br><br>
 Status : Online<br>
 Mode &nbsp; : Building<br>
 OS &nbsp; &nbsp; : Windows<br>
 Focus &nbsp;: Software Development<br>
-Role &nbsp; : Research + Engineering
+Role &nbsp; : Research + Engineering<br>
 </td>
 
 <td width="25%" valign="top">
 <h3><code>focus.txt</code></h3>
-C:\Users\yusuf> type focus.txt<br><br>
+C:\Users\yusuf>&nbsp;type&nbsp;focus.txt<br><br>
 - Mobile app development<br>
 - Backend development<br>
 - Full-stack web projects<br>
-- Quantum computing research<br><br>
-C:\Users\yusuf> _
+- Quantum computing research<br>
 </td>
 
+</tr>
+
+<tr>
+<td valign="bottom">C:\Users\yusuf> _</td>
+<td valign="bottom">C:\Users\yusuf> _</td>
+<td valign="bottom">C:\Users\yusuf> _</td>
+<td valign="bottom">C:\Users\yusuf> _</td>
 </tr>
 </table>
 
